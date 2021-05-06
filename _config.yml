@@ -24,9 +24,7 @@ author:
   avatar : "img/otros.png"
   bio    : "Vocabularios de OpenCityData"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+
 
 
 
