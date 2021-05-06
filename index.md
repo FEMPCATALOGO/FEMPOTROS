@@ -23,7 +23,7 @@ classes: wide
 </div>
 
 1. [CONTRATACIÓN PÚBLICA](#id1)
-2. [EMISIONES](#id2)](#id11)
+2. [EMISIONES](#id2)
 3. [EMPLEO](#id3)
 4. [](#id4)
 5. [](#id5)
