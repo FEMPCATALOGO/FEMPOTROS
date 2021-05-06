@@ -58,7 +58,7 @@ classes: wide
  
  <h1> VOCABULARIO CONTRATACIÓN PÚBLICA </h1><a name="id1"></a>
    &nbsp;
- <a href="https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md"><h2> README </h2></a>
+ <a href="https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md"> README </a>
    &nbsp;
    
 | Dominio |  Estado  |   Links   |    Descripción   |  Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
@@ -72,7 +72,7 @@ classes: wide
  
  <h1> VOCABULARIO EMISIONES </h1><a name="id2"></a>
    &nbsp;
- <a href="https://github.com/opencitydata/vocab-medio-ambiente-emisiones/blob/main/README.md"><h2> README </h2></a>
+ <a href="https://github.com/opencitydata/vocab-medio-ambiente-emisiones/blob/main/README.md">README </a>
    &nbsp;
       
       
@@ -90,7 +90,6 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 
  <h1> VOCABULARIO EMPLEO </h1><a name="id3"></a>
    &nbsp;
- <a href="https://github.com/opencitydata/vocab-sector-publico-empleo/blob/master/README.md"><h2> README </h2></a>
  <a href="https://github.com/opencitydata/vocab-sector-publico-empleo/blob/master/README.md"> README </a>
    &nbsp;
    
