@@ -23,7 +23,35 @@ classes: wide
 </div>
 
 1. [CONTRATACIÓN PÚBLICA](#id1)
-2. [README de Bicicleta](#id2)
+2. [EMISIONES](#id2)](#id11)
+3. [EMPLEO](#id3)
+4. [](#id4)
+5. [](#id5)
+6. [](#id6)
+7. [](#id7)
+8. [](#id8)
+9. [](#id9)
+10. [](#id10)
+11. [](#id11)
+12. [](#id12)
+13. [](#id13)
+14. [](#id14)
+15. [](#id15)
+16. [](#id16)
+17. [](#id17)
+18. [](#id18)
+19. [](#id19)
+20. [](#id20)
+21. [](#id21)
+22. [](#id22)
+23. [](#id23)
+24. [](#id24)
+25. [](#id25)
+26. [](#id26)
+27. [](#id27)
+28. [](#id28)
+29. [](#id29)
+30. [](#id30)
   
   &nbsp;
   &nbsp;
@@ -37,16 +65,38 @@ classes: wide
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |
 | Sector público | En proceso | *[Documentación](https://docs.google.com/document/d/1xUkFq3y1CtZGppkliAIDXXGV5Ff3TwCVgu4yeN1wUOg/edit)* *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)* |  Vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou | 26/03/19 |  rdf  turtle | CC-BY  |  en   |
 
-
-
-
-
 &nbsp; 
  
   
 
  
+ <h1> VOCABULARIO EMISIONES </h1><a name="id2"></a>
+   &nbsp;
+ <a href="https://github.com/opencitydata/vocab-medio-ambiente-emisiones/blob/main/README.md"><h2> README </h2></a>
+   &nbsp;
+   
 
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- |
+| Medio Ambiente | Terminado |  *[Repositorio](https://github.com/opencitydata/vocab-medio-ambiente-emisiones)*   |  *[Generar issue](https://github.com/opencitydata/vocab-medio-ambiente-emisiones/issues)*   | Vocabulario para la representación de los cubos de datos de emisiones de gases de efecto invernadero. | 09/12/20 |  xml  turtle | CC-BY  | es |
+NO APARECE EN ESTA PAGINA:
+http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
+
+&nbsp; 
+ 
+
+ <h1> VOCABULARIO EMPLEO </h1><a name="id3"></a>
+   &nbsp;
+ <a href="https://github.com/opencitydata/vocab-sector-publico-empleo/blob/master/README.md"><h2> README </h2></a>
+   &nbsp;
+   
+
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
+| Sector público | 	En proceso | *[Página web](http://vocab.ciudadesabiertas.es/def/sector-publico/empleo)* *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-empleo)*   |  *[Generar issue](https://github.com/opencitydata/vocab-sector-publico-empleo/issues)*   | Vocabulario para la representación de datos sobre la oferta de empleo público.  |  esemp | rdf+xml   html   turtle | CC-BY  | es   en   |
+
+
+&nbsp; 
 
 
 
@@ -58,7 +108,7 @@ classes: wide
 
 
 
-| Clasificación NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)* *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*  *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Vocabulario para la representación de datos sobre el sistema de bicicleta pública.  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
  
