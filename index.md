@@ -10,27 +10,11 @@ classes: wide
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
 
-<h1> VOCABULARIO BICICLETA </h1>
 </div>
   
 ---
 
 &nbsp;
- 
-
-  
-  
-| Clasificación NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)* *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*  *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Vocabulario para la representación de datos sobre el sistema de bicicleta pública.  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
- 
- 
-  
-
- 
-
- 
- &nbsp;   	
  
 <div id="todo">
   
@@ -38,78 +22,46 @@ classes: wide
   
 </div>
 
-1. [PROPIEDADES](#id12)
-     - [Clasificación NTI](#id1)
-     - [Estado](#id2)
-     - [Links](#id3)
-     - [Issues](#id4) 
-     - [Descripción](#id5) 
-     - [Fecha Publicación](#id6)
-     - [Prefijo](#id7)
-     - [Formatos](#id8)
-     - [Liciencia](#id9)
-     - [Idiomas](#id10) 
-2. [README de Bicicleta](#id11)
- 
- 
-<h2>  PROPIEDADES </h2> <a name="id12"></a>
-
-###  Clasificación NTI <a name="id1"></a>
-Transporte
+1. [CONTRATACIÓN PÚBLICA](#id1)
+2. [README de Bicicleta](#id2)
   
-### Estado <a name="id2"></a>
- Terminado
+  &nbsp;
+  &nbsp;
  
-### Links <a name="id3"></a>
-  1. *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
-  2. *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
-  3. *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
-  4. *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
+ <h1> VOCABULARIO CONTRATACIÓN PÚBLICA </h1><a name="id1"></a>
  
-<p float="right" align="center">
-   1. <img src="img/qr_img.png" alt="qr" width="120" /> &nbsp;&nbsp; 
-   2. <img src="img/qr_imgRepositorio.png" alt="qr" width="120"/>&nbsp;&nbsp;
-   3. <img src="img/qr_imgRequisitos.png" alt="qr" width="120" />&nbsp;&nbsp; 
-   4. <img src="img/qr_imgWebinar.png" alt="qr" width="120" />&nbsp;&nbsp; 
-</p>
+| Dominio |  Estado  |   Links   |    Descripción   |  Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
+| Sector público | En proceso | *[Documentación](https://docs.google.com/document/d/1xUkFq3y1CtZGppkliAIDXXGV5Ff3TwCVgu4yeN1wUOg/edit)* *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)* |  Vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou | 26/03/19 |  rdf  turtle | CC-BY  |  en   |
+
+*[README](https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md)*
+
+&nbsp; 
  
-### Issues <a name="id4"></a>
- *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*  
+  
+
  
- &nbsp; 
- <!-- <img src="img/qr_imgIssues.png" alt="qr" width="150"> -->
-
-### Descripción <a name="id5"></a>
-Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
-
-### Fecha Publicación  <a name="id6"></a>
-30/04/20 
-
-### Prefijo  <a name="id7"></a>
-esbici
-
-### Formatos <a name="id8"></a>
-- rdf+xml   
-- html   
-- turtle
-
-### Liciencia <a name="id9"></a>
-CC-BY
-
-### Idiomas <a name="id10"></a>
-- es   
-- en 
 
 
-<h2>  README  </h2> <a name="id11"></a>
-
-*[README del vocabulario de Bicicleta](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md)*   
-
-  <img src="img/qr_imgREADME.png" alt="qr" width="120" />
 
 
-&nbsp;
----
+
+
+
+
+
+
+
+
+| Clasificación NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
+| Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)* *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*  *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Vocabulario para la representación de datos sobre el sistema de bicicleta pública.  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
+ 
+
+
+
+
+ 
 &nbsp;
 
 
