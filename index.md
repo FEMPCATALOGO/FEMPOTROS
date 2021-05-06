@@ -79,6 +79,8 @@ classes: wide
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- |
 | Medio Ambiente | Terminado |  *[Repositorio](https://github.com/opencitydata/vocab-medio-ambiente-emisiones)*   |  *[Generar issue](https://github.com/opencitydata/vocab-medio-ambiente-emisiones/issues)*   | Vocabulario para la representación de los cubos de datos de emisiones de gases de efecto invernadero. | 09/12/20 |  xml  turtle | CC-BY  | es |
+   
+   
 NO APARECE EN ESTA PAGINA:
 http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 
@@ -88,6 +90,7 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
  <h1> VOCABULARIO EMPLEO </h1><a name="id3"></a>
    &nbsp;
  <a href="https://github.com/opencitydata/vocab-sector-publico-empleo/blob/master/README.md"><h2> README </h2></a>
+ <a href="https://github.com/opencitydata/vocab-sector-publico-empleo/blob/master/README.md"> README </a>
    &nbsp;
    
 
