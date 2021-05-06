@@ -29,12 +29,17 @@ classes: wide
   &nbsp;
  
  <h1> VOCABULARIO CONTRATACIÓN PÚBLICA </h1><a name="id1"></a>
- 
+   &nbsp;
+ <a href="https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md"><h2> README </h2></a>
+   &nbsp;
+   
 | Dominio |  Estado  |   Links   |    Descripción   |  Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |
 | Sector público | En proceso | *[Documentación](https://docs.google.com/document/d/1xUkFq3y1CtZGppkliAIDXXGV5Ff3TwCVgu4yeN1wUOg/edit)* *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)* |  Vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou | 26/03/19 |  rdf  turtle | CC-BY  |  en   |
 
-*[README](https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md)*
+
+
+
 
 &nbsp; 
  
@@ -49,7 +54,7 @@ classes: wide
 
 
 
-
+---
 
 
 
