@@ -105,7 +105,7 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 &nbsp; 
 
 
- <h1> VOCABULARIO AUTOBUS </h1><a name="id4"></a>
+ <h1> VOCABULARIO AUTOBÚS </h1><a name="id4"></a>
  
    &nbsp;
    
