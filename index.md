@@ -106,9 +106,13 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 
 
  <h1> VOCABULARIO AUTOBUS </h1><a name="id4"></a>
+ 
    &nbsp;
+   
  <a href="https://github.com/opencitydata/vocab-transporte-autobus/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/autobus/index-es.html)* *[Repositorio](https://github.com/opencitydata/vocab-transporte-autobus)*  *[Requisitos](https://github.com/opencitydata/vocab-transporte-autobus/tree/master/Requirements)*  *[Webinar](https://www.youtube.com/watch?v=RcP9dplKb3A&list=PLuvmjKgQP8bXSFG289dUU4I6hOQZhjxUW)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-autobus/issues)*   | Vocabulario para la representación de datos sobre el servicio público de autobuses urbano, incluyendo las entidades de gestión del servicio (autoridad de transporte y operadores); la información de líneas, rutas y paradas; la información del tiempo de llegada del próximo autobús a parada y las incidencias.  | 30/11/20 | esautob | rdf+xml   html   turtle | CC-BY  | es   en   |
@@ -119,9 +123,13 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
  
  
 <h1> VOCABULARIO SUBVENCIONES Y AYUDAS </h1><a name="id5"></a>
+
    &nbsp;
+   
  <a href="https://github.com/opencitydata/sector-publico-subvenciones-ayudas/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Sector público   Economía    Hacienda | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-subvenciones-ayudas)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-subvenciones-ayudas/issues)*   | 	
@@ -136,8 +144,11 @@ Este vocabulario se utiliza para la descripción de datos relacionados con subve
 
 <h1> VOCABULARIO DIRECCION POSTAL</h1><a name="id6"></a>
    &nbsp;
+   
  <a href="https://github.com/opencitydata/commons-direccion-postal/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
 | Urbanismo e infraestructuras   Direcciones postales | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal/index-en.html)* *[Repositorio](https://github.com/opencitydata/commons-direccion-postal)*  |  *[Generar issue](https://github.com/opencitydata/commons-direccion-postal/issues)*   | 	
@@ -150,8 +161,11 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 <h1> VOCABULARIO TERRITORIO</h1><a name="id7"></a>
    &nbsp;
+   
  <a href="https://github.com/opencitydata/sector-publico-territorio/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- |
 | Sector público | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/territorio/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-territorio)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-territorio/issues)*   | Este vocabulario se utiliza para la descripción de territorios en España (incluyendo divisiones administrativas y también otros conceptos que se utilizan normalmente pero no tienen entidad jurídica, como por ejemplo barrios).   | esadm|  rdf+xml   html   turtle | CC-BY  | es |
@@ -161,9 +175,13 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO ORGANISMOS</h1><a name="id8"></a>
+
    &nbsp;
+   
  <a href="https://github.com/opencitydata/sector-publico-organismos/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Sector público | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/organizacion/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-organismos)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-organismos/issues)*   | Vocabulario para la representación de organismos y sus organigramas.   | 25/07/2018 | orges |  rdf+xml   html   turtle | CC-BY  | es |
@@ -173,9 +191,13 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO SERVICIO</h1><a name="id9"></a>
+
    &nbsp;
+   
  <a href="https://github.com/opencitydata/sector-publico-servicio/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Sector público    Servicios | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/servicio/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-servicio)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-servicio/issues)*   | Vocabulario para la representación de datos sobre trámites, servicios y procedimientos administrativos ofrecidos por ayuntamientos.  | 16/06/2019 | esproc |  rdf+xml   html   turtle | CC-BY  | es en |
@@ -193,7 +215,9 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 &nbsp;   
 
  <a href="https://github.com/opencitydata/sector-publico-participacion-ciudadana/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Sector público  | En proceso |  *[Repositorio](https://github.com/opencitydata/sector-publico-participacion-ciudadana)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-participacion-ciudadana/issues)*   | Vocabulario para la representación de datos relacionados con participación ciudadana.  | 26/03/2019 |  |   | CC-BY  |  |
@@ -203,8 +227,11 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
  
 <h1> VOCABULARIO ACCESIBILIDAD</h1><a name="id11"></a>
+
  <a href="https://github.com/opencitydata/transporte-accesibilidad/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Transporte | En proceso |  *[Repositorio](https://github.com/opencitydata/transporte-accesibilidad)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accesibilidad/issues)*   | El caso de estudio actual está relacionado con el transporte público en Madrid, específicamente con los autobuses y los sistemas de metro.  |  |  |   | CC-BY  |  |
@@ -213,8 +240,11 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO TRANSPORTE PÚBLICO TARJETA</h1><a name="id12"></a>
+
  <a href="https://github.com/opencitydata/transporte-transporte-publico-tarjeta/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | 
 | Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/transporte-publico/tarjeta/index-en.html)* *[Repositorio](https://github.com/opencitydata/transporte-transporte-publico-tarjeta)*  |  *[Generar issue](https://github.com/opencitydata/transporte-transporte-publico-tarjeta/issues)*   | Repositorio que contiene el material relacionado con el vocabulario que permite representar los datos de la validación de la tarjeta de transporte del sistema de transporte de Madrid.  |   rdf+xml   html   turtle | CC-BY  | en  |
@@ -222,8 +252,11 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO TRAFICO TIEMPO REAL</h1><a name="id13"></a>
+
  <a href="https://github.com/opencitydata/transporte-trafico-tiempo-real/blob/master/README.md"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |  -------- |  
 | Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/trafico-content/index.html)* *[Repositorio](https://github.com/opencitydata/transporte-trafico-tiempo-real)*  |  *[Generar issue](https://github.com/opencitydata/transporte-trafico-tiempo-real/issues)*   | Este repositorio contiene el material relacionado con el vocabulario que permite representar datos sobre la situación del tráfico en una ciudad.  | 18/05/2018  |  owl  json | CC-BY  | es  |
@@ -233,6 +266,7 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO PROTECCIÓN CIVIL</h1><a name="id14"></a>
+
 &nbsp; &nbsp;
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
@@ -243,7 +277,9 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp; &nbsp;
 
  <a href="https://github.com/opencitydata/seguridad-policia-municipal-proteccion-civil"> README </a>
+ 
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Seguridad policia | Inexistente | *[Repositorio](https://github.com/opencitydata/seguridad-policia-municipal-proteccion-civil)*  |  *[Generar issue](https://github.com/opencitydata/seguridad-policia-municipal-proteccion-civil/issues)*   | Toda actuación que realiza la policia municipal, con respecto a la seguridad ciudadana, seguridad vial, convivencia, criminologia...  | 
@@ -520,6 +556,175 @@ HAY DIFERENCIA CON TRAFICO?
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-parques-vehiculos)*  |  *[Generar issue](https://github.com/opencitydata/transporte-parques-vehiculos/issues)*   | Parque de vehiculos transporte público y privado | 
 
 &nbsp;
+
+
+<h1> VOCABULARIO ESTACIONES COMBUSTIBLE</h1><a name="id29"></a>
+&nbsp; &nbsp;
+
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp; &nbsp;
+
+ <a href="https://github.com/opencitydata/infraestructura-estaciones-combustible"> README </a>
+   &nbsp;
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Infraestructura | Inexistente | *[Repositorio](https://github.com/opencitydata/infraestructura-estaciones-combustible)*  |  *[Generar issue](https://github.com/opencitydata/infraestructura-estaciones-combustible/issues)*   | Relación de estaciones de servicio ubicadas en vía pública que suministran todo tipo de combustibles. | 
+
+&nbsp;
+
+
+<h1> VOCABULARIO SEÑALIZACIÓN HORIZONTAL</h1><a name="id30"></a>
+&nbsp; &nbsp;
+
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp; &nbsp;
+
+ <a href="https://github.com/opencitydata/transporte-senializacion-horizontal"> README </a>
+   &nbsp;
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-senializacion-horizontal)*  |  *[Generar issue](https://github.com/opencitydata/transporte-senializacion-horizontal/issues)*   | Carriles y sentidos (Circulación general, motocicletas, autobuses, taxi, bici, VAO, emergencias …) | 
+
+&nbsp;
+
+
+<h1> VOCABULARIO TRANSPORTE URBANO</h1><a name="id31"></a>
+&nbsp; &nbsp;
+
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp; &nbsp;
+
+ <a href="https://github.com/opencitydata/transporte-urbano"> README </a>
+   &nbsp;
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-urbano)*  |  *[Generar issue](https://github.com/opencitydata/transporte-urbano/issues)*   | Incluir tambien: Demanda de viajeros por paradas, tramos, líneas, corredores, zonas y medios de transporte | 
+
+&nbsp;
+
+
+
+<h1> VOCABULARIO APARCAMIENTO ZONAS REGULADAS</h1><a name="id32"></a>
+&nbsp; &nbsp;
+
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp; &nbsp;
+
+ <a href="https://github.com/opencitydata/transporte-aparcamiento-zonas-reguladas"> README </a>
+   &nbsp;
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento-zonas-reguladas)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento-zonas-reguladas/issues)*   | Aparcamientos. Zonas y vías de estacionamiento reservado a residentes y a regulaciones temporales del estacionamiento, plazas especiales (movilidad reducida, vehículos eléctricos, motos, etc), las zonas azules y verdes, zonas de taxis Nota de Andrés: estamos hablando de una generalidad, en el diseño de contenidos deberá contener una caracterización (codificación) y debe caber todo, incluídas zonas y tipos de vehículos). | 
+
+&nbsp;
+
+
+
+<h1> VOCABULARIO ACCIDENTALIDAD TRÁFICO</h1><a name="id33"></a>
+&nbsp; &nbsp;
+
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp; &nbsp;
+
+ <a href="https://github.com/opencitydata/transporte-accidentalidad-trafico"> README </a>
+   &nbsp;
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-accidentalidad-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accidentalidad-trafico/issues)*   | Información de accidentes de tráfico de los años 2013, agrupada por distintos conceptos. | 
+
+&nbsp;
+
+
+
+
+
+<h1> VOCABULARIO ACCIDENTALIDAD TRÁFICO</h1><a name="id33"></a>
+&nbsp; &nbsp;
+
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp; &nbsp;
+
+ <a href="https://github.com/opencitydata/transporte-accidentalidad-trafico"> README </a>
+   &nbsp;
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-accidentalidad-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accidentalidad-trafico/issues)*   | Información de accidentes de tráfico de los años 2013, agrupada por distintos conceptos. | 
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
