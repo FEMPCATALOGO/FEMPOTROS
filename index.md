@@ -142,7 +142,7 @@ Este vocabulario se utiliza para la descripción de datos relacionados con subve
    
 
 
-<h1> VOCABULARIO DIRECCION POSTAL</h1><a name="id6"></a>
+<h1> VOCABULARIO DIRECCIÓN POSTAL</h1><a name="id6"></a>
    &nbsp;
    
  <a href="https://github.com/opencitydata/commons-direccion-postal/blob/master/README.md"> README </a>
@@ -251,7 +251,7 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 &nbsp;
 
 
-<h1> VOCABULARIO TRAFICO TIEMPO REAL</h1><a name="id13"></a>
+<h1> VOCABULARIO TRÁFICO TIEMPO REAL</h1><a name="id13"></a>
 
  <a href="https://github.com/opencitydata/transporte-trafico-tiempo-real/blob/master/README.md"> README </a>
  
@@ -402,7 +402,7 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp;
 
 
-<h1> VOCABULARIO ALQUILES DE VIVIENDA PÚBLICA</h1><a name="id21"></a>
+<h1> VOCABULARIO ALQUILER DE VIVIENDAS PÚBLICAS</h1><a name="id21"></a>
 &nbsp; &nbsp;
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
@@ -441,7 +441,7 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 
-<h1> VOCABULARIO OBRAS CONSERVACIÓN Y DE INFRAESTRUCTURAS</h1><a name="id23"></a>
+<h1> VOCABULARIO OBRAS DE CONSERVACIÓN Y DE INFRAESTRUCTURAS</h1><a name="id23"></a>
 &nbsp; &nbsp;
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
@@ -936,7 +936,7 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 
-<h1> VOCABULARIO ENCOMIENDAS GESTIÓN</h1><a name="id48"></a>
+<h1> VOCABULARIO ENCOMIENDAS DE GESTIÓN</h1><a name="id48"></a>
 &nbsp; &nbsp;
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
@@ -974,7 +974,7 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp;
 
 
-<h1> VOCABULARIO RUTAS ITINERARIOS</h1><a name="id49"></a>
+<h1> VOCABULARIO RUTAS ITINERARIOS</h1><a name="id499"></a>
 &nbsp; &nbsp;
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
@@ -1051,7 +1051,7 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp;
 
 
-<h1> VOCABULARIO AREAS VERDES</h1><a name="id53"></a>
+<h1> VOCABULARIO ÁREAS VERDES</h1><a name="id53"></a>
 &nbsp; &nbsp;
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
