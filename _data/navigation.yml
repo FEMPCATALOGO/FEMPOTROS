@@ -31,8 +31,11 @@ docs:
         url: /#id12
       - title: "TRÁFICO TIEMPO REAL"
         url: /#id13  
+        
   - title: Vocabularios sin crear
     children:
+      - title: "CONTRATACIÓN PÚBLICA"
+        url: /#id1
       - title: "PARTICIPACIÓN CIUDADANA"
         url: /#id10
       - title: "PROTECCIÓN CIVIL"
