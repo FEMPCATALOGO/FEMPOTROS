@@ -6,6 +6,8 @@ layout: single
 author_profile: true 
 title: false
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
