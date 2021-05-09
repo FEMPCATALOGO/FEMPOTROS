@@ -146,12 +146,9 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 &nbsp; 
 
 
- <h1> VOCABULARIO AUTOBÚS </h1><a name="id4"></a>
- 
-   &nbsp;
-   
- <a href="https://github.com/opencitydata/vocab-transporte-autobus/blob/master/README.md"> README </a>
- 
+ <h1> VOCABULARIO AUTOBÚS </h1><a name="id4"></a> 
+   &nbsp;   
+ <a href="https://github.com/opencitydata/vocab-transporte-autobus/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -164,11 +161,8 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
  
  
 <h1> VOCABULARIO SUBVENCIONES Y AYUDAS </h1><a name="id5"></a>
-
-   &nbsp;
-   
- <a href="https://github.com/opencitydata/sector-publico-subvenciones-ayudas/blob/master/README.md"> README </a>
- 
+   &nbsp;   
+ <a href="https://github.com/opencitydata/sector-publico-subvenciones-ayudas/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -184,10 +178,8 @@ Este vocabulario se utiliza para la descripción de datos relacionados con subve
 
 
 <h1> VOCABULARIO DIRECCIÓN POSTAL</h1><a name="id6"></a>
-   &nbsp;
-   
- <a href="https://github.com/opencitydata/commons-direccion-postal/blob/master/README.md"> README </a>
- 
+   &nbsp;   
+ <a href="https://github.com/opencitydata/commons-direccion-postal/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -201,10 +193,8 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO TERRITORIO</h1><a name="id7"></a>
-   &nbsp;
-   
- <a href="https://github.com/opencitydata/sector-publico-territorio/blob/master/README.md"> README </a>
- 
+   &nbsp;   
+ <a href="https://github.com/opencitydata/sector-publico-territorio/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -216,11 +206,8 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO ORGANISMOS</h1><a name="id8"></a>
-
-   &nbsp;
-   
- <a href="https://github.com/opencitydata/sector-publico-organismos/blob/master/README.md"> README </a>
- 
+   &nbsp;   
+ <a href="https://github.com/opencitydata/sector-publico-organismos/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -232,11 +219,8 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
 
 <h1> VOCABULARIO SERVICIO</h1><a name="id9"></a>
-
-   &nbsp;
-   
- <a href="https://github.com/opencitydata/sector-publico-servicio/blob/master/README.md"> README </a>
- 
+   &nbsp;   
+ <a href="https://github.com/opencitydata/sector-publico-servicio/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -255,8 +239,7 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 </p>
 &nbsp;   
 
- <a href="https://github.com/opencitydata/sector-publico-participacion-ciudadana/blob/master/README.md"> README </a>
- 
+ <a href="https://github.com/opencitydata/sector-publico-participacion-ciudadana/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -268,34 +251,33 @@ Vocabulario para la representación de direcciones postales en España.  | esdir
 
  
 <h1> VOCABULARIO ACCESIBILIDAD</h1><a name="id11"></a>
-
+  &nbsp;   
  <a href="https://github.com/opencitydata/transporte-accesibilidad/blob/master/README.md"> README </a>
- 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Transporte | En proceso |  *[Repositorio](https://github.com/opencitydata/transporte-accesibilidad)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accesibilidad/issues)*   | El caso de estudio actual está relacionado con el transporte público en Madrid, específicamente con los autobuses y los sistemas de metro.  |  |  |   | CC-BY  |  |
+
  PAGINA WEB NO TIENE?
 &nbsp;
 
 
 <h1> VOCABULARIO TRANSPORTE PÚBLICO TARJETA</h1><a name="id12"></a>
-
- <a href="https://github.com/opencitydata/transporte-transporte-publico-tarjeta/blob/master/README.md"> README </a>
- 
+  &nbsp;
+ <a href="https://github.com/opencitydata/transporte-transporte-publico-tarjeta/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | 
 | Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/transporte-publico/tarjeta/index-en.html)* *[Repositorio](https://github.com/opencitydata/transporte-transporte-publico-tarjeta)*  |  *[Generar issue](https://github.com/opencitydata/transporte-transporte-publico-tarjeta/issues)*   | Repositorio que contiene el material relacionado con el vocabulario que permite representar los datos de la validación de la tarjeta de transporte del sistema de transporte de Madrid.  |   rdf+xml   html   turtle | CC-BY  | en  |
+
 &nbsp;
 
 
 <h1> VOCABULARIO TRÁFICO TIEMPO REAL</h1><a name="id13"></a>
-
- <a href="https://github.com/opencitydata/transporte-trafico-tiempo-real/blob/master/README.md"> README </a>
- 
+  &nbsp;
+ <a href="https://github.com/opencitydata/transporte-trafico-tiempo-real/blob/master/README.md"> README </a> 
    &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
@@ -315,11 +297,9 @@ HAY DIFERENCIA CON TRAFICO?
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp; 
  <a href="https://github.com/opencitydata/seguridad-policia-municipal-proteccion-civil"> README </a>
- 
-   &nbsp;
+ &nbsp;
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
@@ -330,17 +310,15 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO SEMÁFOROS</h1><a name="id15"></a>
-&nbsp; &nbsp;
-
+&nbsp;
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
-
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp; 
  <a href="https://github.com/opencitydata/transporte-semaforos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-semaforos)*  |  *[Generar issue](https://github.com/opencitydata/transporte-semaforos/issues)*   | Semáforo | 
@@ -349,17 +327,15 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO ZONAS MASCOTAS</h1><a name="id16"></a>
-&nbsp; &nbsp;
-
+&nbsp; 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
-
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp; 
  <a href="https://github.com/opencitydata/sociedad-bienestar-zonas-mascotas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-zonas-mascotas)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-zonas-mascotas/issues)*   | Zonas de mascotas | 
@@ -368,17 +344,15 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO SEÑALIZACIÓN VERTICAL</h1><a name="id17"></a>
-&nbsp; &nbsp;
-
+&nbsp; 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
-
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp;
  <a href="https://github.com/opencitydata/transporte-senializacion-vertical"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-senializacion-vertical)*  |  *[Generar issue](https://github.com/opencitydata/transporte-senializacion-vertical/issues)*   | Contiene información relativa a las señales de trafico instaladas en el Municipio. Señales de tráfico, de reserva de espacio, paradas de taxi, carga y descarga, vados... | 
@@ -387,17 +361,16 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO SISTEMA ARBITRAL DE CONSUMO</h1><a name="id18"></a>
-&nbsp; &nbsp;
-
+&nbsp; 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp;
  <a href="https://github.com/opencitydata/comercio-empresas-sistema-arbitral-consumo"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Comercio | Inexistente | *[Repositorio](https://github.com/opencitydata/comercio-empresas-sistema-arbitral-consumo)*  |  *[Generar issue](https://github.com/opencitydata/comercio-empresas-sistema-arbitral-consumo/issues)*   | Dataset que incluye las empresas situadas en el municipio y adheridas al Sistema Arbitral de Consumo. | 
@@ -406,17 +379,16 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO INSPECCIÓN TECNICA DE EDIFICIOS</h1><a name="id19"></a>
-&nbsp; &nbsp;
-
+&nbsp;
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp; 
  <a href="https://github.com/opencitydata/urbanismo-infraestructuras-inspeccion-edificios"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Urbanismo e infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-inspeccion-edificios)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-inspeccion-edificios/issues)*   | Actas de inspección técnica que se emitan a resultas de las inspecciones. | 
@@ -425,17 +397,16 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO VIVIENDAS DE PROTECCIÓN PÚBLICA</h1><a name="id20"></a>
-&nbsp; &nbsp;
-
+&nbsp; 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp; 
  <a href="https://github.com/opencitydata/vivienda-proteccion-publica"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Vivienda | Inexistente | *[Repositorio](https://github.com/opencitydata/vivienda-proteccion-publica)*  |  *[Generar issue](https://github.com/opencitydata/vivienda-proteccion-publica/issues)*   | Localización de las viviendas de protección pública, diferenciando las que tienen licencia de obra y las que están finalizadas. | 
@@ -444,17 +415,16 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 <h1> VOCABULARIO ALQUILER DE VIVIENDAS PÚBLICAS</h1><a name="id21"></a>
-&nbsp; &nbsp;
-
+&nbsp;
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
 <img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
-&nbsp; &nbsp;
-
+&nbsp;
  <a href="https://github.com/opencitydata/vivienda-alquileres"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Vivienda | Inexistente | *[Repositorio](https://github.com/opencitydata/vivienda-alquileres)*  |  *[Generar issue](https://github.com/opencitydata/vivienda-alquileres/issues)*   | Alquiler de vivienda pública. | 
@@ -474,6 +444,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/demografia-secciones-censales-distritos-barrios"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Demografía | Inexistente | *[Repositorio](https://github.com/opencitydata/demografia-secciones-censales-distritos-barrios)*  |  *[Generar issue](https://github.com/opencitydata/demografia-secciones-censales-distritos-barrios/issues)*   | Secciones censales, distritos y barrios | 
@@ -494,6 +465,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/urbanismo-infraestructuras-obras-conservacion-urbana"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Urbanismo e infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-obras-conservacion-urbana)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-obras-conservacion-urbana/issues)*   | Información relativa a avisos, quejas o sugerencias, indicadas por los ciudadanos. | 
@@ -513,6 +485,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/hacienda-licencia-terrazas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Hacienda | Inexistente | *[Repositorio](https://github.com/opencitydata/hacienda-licencia-terrazas)*  |  *[Generar issue](https://github.com/opencitydata/hacienda-licencia-terrazas/issues)*   | Licencia ocupacion suelo publico. Terrazas y veladores. | 
@@ -533,6 +506,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/urbanismo-infraestructuras-actuaciones-urbanisticas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Urbanismo e infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-actuaciones-urbanisticas)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-actuaciones-urbanisticas/issues)*   | Son múltiples datasets: Clasificación suelo, Categorias, Zonas de ordenanzas, Tipo de edificacion, Ambitos y actuaciones, Areas de reparto, Sistemas, Afecciones, Protecciones, Reservas, Acciones (planificacion temporal). | 
@@ -552,6 +526,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/turismo-oficinas-puntos-informacion"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Turismo | Inexistente | *[Repositorio](https://github.com/opencitydata/turismo-oficinas-puntos-informacion)*  |  *[Generar issue](https://github.com/opencitydata/turismo-oficinas-puntos-informacion/issues)*   | Ubicación y servicios | 
@@ -572,6 +547,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/transporte-restricciones-circulacion"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-restricciones-circulacion)*  |  *[Generar issue](https://github.com/opencitydata/transporte-restricciones-circulacion/issues)*   | Comunicaciones y Tráfico | 
@@ -592,6 +568,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/transporte-parques-vehiculos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-parques-vehiculos)*  |  *[Generar issue](https://github.com/opencitydata/transporte-parques-vehiculos/issues)*   | Parque de vehiculos transporte público y privado | 
@@ -611,6 +588,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/infraestructura-estaciones-combustible"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Infraestructura | Inexistente | *[Repositorio](https://github.com/opencitydata/infraestructura-estaciones-combustible)*  |  *[Generar issue](https://github.com/opencitydata/infraestructura-estaciones-combustible/issues)*   | Relación de estaciones de servicio ubicadas en vía pública que suministran todo tipo de combustibles. | 
@@ -630,6 +608,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/transporte-senializacion-horizontal"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-senializacion-horizontal)*  |  *[Generar issue](https://github.com/opencitydata/transporte-senializacion-horizontal/issues)*   | Carriles y sentidos (Circulación general, motocicletas, autobuses, taxi, bici, VAO, emergencias …) | 
@@ -649,6 +628,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/transporte-urbano"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-urbano)*  |  *[Generar issue](https://github.com/opencitydata/transporte-urbano/issues)*   | Incluir tambien: Demanda de viajeros por paradas, tramos, líneas, corredores, zonas y medios de transporte | 
@@ -669,6 +649,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/transporte-aparcamiento-zonas-reguladas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-aparcamiento-zonas-reguladas)*  |  *[Generar issue](https://github.com/opencitydata/transporte-aparcamiento-zonas-reguladas/issues)*   | Aparcamientos. Zonas y vías de estacionamiento reservado a residentes y a regulaciones temporales del estacionamiento, plazas especiales (movilidad reducida, vehículos eléctricos, motos, etc), las zonas azules y verdes, zonas de taxis Nota de Andrés: estamos hablando de una generalidad, en el diseño de contenidos deberá contener una caracterización (codificación) y debe caber todo, incluídas zonas y tipos de vehículos). | 
@@ -689,6 +670,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/transporte-accidentalidad-trafico"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-accidentalidad-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accidentalidad-trafico/issues)*   | Información de accidentes de tráfico de los años 2013, agrupada por distintos conceptos. | 
@@ -711,6 +693,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-zonas-colectivos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-zonas-colectivos)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-zonas-colectivos/issues)*   | Dataset relativo a la ubicación de zonas de la ciudad reservadas para diferentes colectivos. | 
@@ -731,6 +714,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-servicio-colectivos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-servicio-colectivos)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-servicio-colectivos/issues)*   | Dataset relativo a la ubicación y titularidad de los servicios existentes en el municipio destinados a diferentes colectivos. | 
@@ -751,6 +735,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/urbanismo-infraestructuras-quioscos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Urbanismo e infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-quioscos)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-quioscos/issues)*   | Dataset relativo a la ubicación de quioscos y puestos de diferente tipología. | 
@@ -770,6 +755,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-actos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-actos)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-actos/issues)*   | Dataset relativo a uso de la vía pública para la realización de manifestaciones y otros actos de ocupación. | 
@@ -790,6 +776,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-centros-servicios-sociales"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-centros-servicios-sociales)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-centros-servicios-sociales/issues)*   | Centros de servicios sociales: dia, mayores, civicos, mujeres, (oferta y uso) | 
@@ -809,6 +796,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-atencion-social"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-atencion-social)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-atencion-social/issues)*   | Actuaciones de atención social a personas (mayores, sin hogar, etc) | 
@@ -829,6 +817,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-albergues-centros-noche"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-albergues-centros-noche)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-albergues-centros-noche/issues)*   | Dataset relativo a la situación, instalaciones y servicios para personas sin hogar. | 
@@ -850,6 +839,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/seguridad-radares-control-semaforos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Seguridad | Inexistente | *[Repositorio](https://github.com/opencitydata/seguridad-radares-control-semaforos)*  |  *[Generar issue](https://github.com/opencitydata/seguridad-radares-control-semaforos/issues)*   | Relación de ubicaciones de los distintos radares existentes en la ciudad y mecanismos de control del tráfico. Tambien habria que incluir los puntos de acceso a las zonas de prioridad residencial. | 
@@ -869,6 +859,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/seguridad-urgencias"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Seguridad | Inexistente | *[Repositorio](https://github.com/opencitydata/seguridad-urgencias)*  |  *[Generar issue](https://github.com/opencitydata/seguridad-urgencias/issues)*   | Actuaciones de urgencias (SAMUR, sociales, o similares). | 
@@ -889,6 +880,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/seguridad-bomberos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Seguridad | Inexistente | *[Repositorio](https://github.com/opencitydata/seguridad-bomberos)*  |  *[Generar issue](https://github.com/opencitydata/seguridad-bomberos/issues)*   | Actuaciones Bomberos. | 
@@ -908,6 +900,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sociedad-bienestar-participacion-ciudadana"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sociedad y bienestar | Inexistente | *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-participacion-ciudadana)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-participacion-ciudadana/issues)*   | Dataset relativo a las incidencias surgidas en la vía pública, sugerencias y reclamaciones presentadas y su tramitación posterior. | 
@@ -929,6 +922,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sector-publico-puestos-trabajo"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente | *[Repositorio](https://github.com/opencitydata/sector-publico-puestos-trabajo)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-puestos-trabajo/issues)*   | Dataset relativo al número de trabajadores municipales e identificación de cada puesto. | 
@@ -950,6 +944,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sector-publico-normativa-municipal"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente | *[Repositorio](https://github.com/opencitydata/sector-publico-normativa-municipal)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-normativa-municipal/issues)*   | Reutilización posible por alguna editorial de textos legales, o similares. | 
@@ -969,6 +964,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sector-publico-declaraciones-compatibilidades"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente | *[Repositorio](https://github.com/opencitydata/sector-publico-declaraciones-compatibilidades)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-declaraciones-compatibilidades/issues)*   | Dataset relativo a las autorizaciones de compatibilidad solicitadas por altos cargos municipales. | 
@@ -989,6 +985,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sector-publico-encomiendas-gestion"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente | *[Repositorio](https://github.com/opencitydata/sector-publico-encomiendas-gestion)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-encomiendas-gestion/issues)*   | Convenios y encomiendas de gestión realizadas por órganos de la Administración del Estado. | 
@@ -1008,6 +1005,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sector-publico-arrendamiendos-alquileres"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente | *[Repositorio](https://github.com/opencitydata/sector-publico-arrendamiendos-alquileres)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-arrendamiendos-alquileres/issues)*   | Sería de interes el censo de personas juridicas asociando los inmuebles de su propiedad, con los datos detallado de dichos inmuebles. | 
@@ -1027,6 +1025,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/salud-rutas-itinerarios"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Salud | Inexistente | *[Repositorio](https://github.com/opencitydata/salud-rutas-itinerarios)*  |  *[Generar issue](https://github.com/opencitydata/salud-rutas-itinerarios/issues)*   | Rutas diferenciadas por distintos ítems: medio de locomoción (a pie, bici, auto), temáticas (historia, salud, arquitectura, etc.) Itinerario o ruta, que puede ser turístico, de ocio, etc. | 
@@ -1046,6 +1045,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/salud-plagas-tratamientos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Salud | Inexistente | *[Repositorio](https://github.com/opencitydata/salud-plagas-tratamientos)*  |  *[Generar issue](https://github.com/opencitydata/salud-plagas-tratamientos/issues)*   | Plagas y tratamientos. | 
@@ -1066,6 +1066,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/salud-centros-sanitarios"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Salud | Inexistente | *[Repositorio](https://github.com/opencitydata/salud-centros-sanitarios)*  |  *[Generar issue](https://github.com/opencitydata/salud-centros-sanitarios/issues)*   | Aunque no sea competencia de los ayuntamientos, normalmente el ayuntamiento tendrá estos datos y los puede publicar. | 
@@ -1085,6 +1086,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/salud-centros-proteccion-animal"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Salud | Inexistente | *[Repositorio](https://github.com/opencitydata/salud-centros-proteccion-animal)*  |  *[Generar issue](https://github.com/opencitydata/salud-centros-proteccion-animal/issues)*   | Fuera del periodo de máxima polinización (marzo a agosto) la información polínica es de periodicidad semanal. | 
@@ -1104,6 +1106,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/medio-ambiente-areas-verdes"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Medio ambiente | Inexistente | *[Repositorio](https://github.com/opencitydata/medio-ambiente-areas-verdes)*  |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-areas-verdes/issues)*   | Contiene la delimitación de los espacios verdes públicos, susceptibles o no de ser urbanizados y sus servicios, ubicados en: zonas verdes, vías urbanas, carreteras, autovías, riberas de ríos y arroyos. | 
@@ -1124,6 +1127,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/medio-ambiente-niveles-polinicos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Medio ambiente | Inexistente | *[Repositorio](https://github.com/opencitydata/medio-ambiente-niveles-polinicos)*  |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-areas-verdes/issues)*   | Datos sobre los niveles de polinización de las diferentes plantas y árboles de la ciudad como moreras, robles y encinas (quercus), olivos, plátanos de paseo, llantenes, urticáceas (ortigas y parietaria), cupresáceas (cipreses, tuyas y enebros), árbol del cielo, chopos, pinos, gramíneas,cenizos y maleza. | 
@@ -1143,6 +1147,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/medio-ambiente-climatologia"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Medio ambiente | Inexistente | *[Repositorio](https://github.com/opencitydata/medio-ambiente-climatologia)*  |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-climatologia/issues)*   | Meteorología, Geografía, Conservación fauna y flora. | 
@@ -1162,6 +1167,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/medio-ambiente-arbolado"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Medio ambiente | Inexistente | *[Repositorio](https://github.com/opencitydata/medio-ambiente-arbolado)*  |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-arbolado/issues)*   | Dataset con la ubicación y tipo de arbolado, incluyendo un apartado para el monumental. | 
@@ -1181,6 +1187,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/sector-publico-registros"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente | *[Repositorio](https://github.com/opencitydata/sector-publico-registros)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-registros/issues)*   | Las entradas de documentación al Ayuntamiento a través de cualquiera de sus canales, presencial (Oficinas de Registro) electrónico y sistema de interconexión de registros (ORVE/SIR). | 
@@ -1200,6 +1207,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/industria-poligonos-industriales"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Industria | Inexistente | *[Repositorio](https://github.com/opencitydata/industria-poligonos-industriales)*  |  *[Generar issue](https://github.com/opencitydata/industria-poligonos-industriales/issues)*   | BBDD de Polígonos Industriales | 
@@ -1219,6 +1227,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/hacienda-impuestos-personas-juridicas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Hacienda | Inexistente | *[Repositorio](https://github.com/opencitydata/hacienda-impuestos-personas-juridicas)*  |  *[Generar issue](https://github.com/opencitydata/hacienda-impuestos-personas-juridicas/issues)*   | Impuestos (IBI, ITVM, …..) - personas jurídicas | 
@@ -1240,6 +1249,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/hacienda-impuestos-agentes"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Hacienda | Inexistente | *[Repositorio](https://github.com/opencitydata/hacienda-impuestos-agentes)*  |  *[Generar issue](https://github.com/opencitydata/hacienda-impuestos-agentes/issues)*   | Agentes económicos que pagan impuestos (IVA, IAE) | 
@@ -1261,6 +1271,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/hacienda-actividad-inspectora"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Hacienda | Inexistente | *[Repositorio](https://github.com/opencitydata/hacienda-actividad-inspectora)*  |  *[Generar issue](https://github.com/opencitydata/hacienda-actividad-inspectora/issues)*   | Actividad inspectora. (se puede publicar la actividad inspectora, pero no así la sancionadora) | 
@@ -1280,6 +1291,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/energia-consumo"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Energía | Inexistente | *[Repositorio](https://github.com/opencitydata/energia-consumo)*  |  *[Generar issue](https://github.com/opencitydata/energia-consumo/issues)*   | Consumos energeticos de edificios publicos, comercializador, túneles, alumbrado público, etc. Datos de Consumo de energia, de combustible ... | 
@@ -1300,6 +1312,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/cultura-ocio-salas-ocio"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Cultura y ocio | Inexistente | *[Repositorio](https://github.com/opencitydata/cultura-ocio-salas-ocio)*  |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-salas-ocio/issues)*   | Salas de Ocio (Conciertos, Teatros, Cines, etc) | 
@@ -1319,6 +1332,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/cultura-ocio-museos-galerias-exposiciones"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Cultura y ocio | Inexistente | *[Repositorio](https://github.com/opencitydata/cultura-ocio-museos-galerias-exposiciones)*  |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-museos-galerias-exposiciones/issues)*   | Museos, galerías de arte y salas de exposiciones, junto con su catálogo, horas de apertura, etc. | 
@@ -1339,6 +1353,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/urbanismo-infraestructuras-bienes-inmuebles"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Urbanismo e infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-bienes-inmuebles)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-bienes-inmuebles/issues)*   | Información relativa a bienes inmuebles que pertenecen al ayuntamiento. Sus identificadores se pueden usar en la agenda de eventos, en servicios que se ofrezcan por el ayto, trámites, etc. El código catastral u otros códigos similares pueden ser útiles para enlazar conjuntos de datos de varios productores de datos. | 
@@ -1359,6 +1374,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/cultura-ocio-bibliotecas-prestamos"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Cultura y ocio | Inexistente | *[Repositorio](https://github.com/opencitydata/cultura-ocio-bibliotecas-prestamos)*  |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-bibliotecas-prestamos/issues)*   | Información relativa a los los ejemplares o materiales (físicos o virtuales) prestados de bibliotecas (red o individuales). | 
@@ -1378,6 +1394,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/cultura-ocio-bibliotecas-catalogo-libros"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Cultura y ocio | Inexistente | *[Repositorio](https://github.com/opencitydata/cultura-ocio-bibliotecas-catalogo-libros)*  |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-bibliotecas-catalogo-libros/issues)*   | Información sobre los fondos bibliográficos de las bibliotecas. | 
@@ -1397,6 +1414,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/cultura-ocio-bibliotecas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Cultura y ocio | Inexistente | *[Repositorio](https://github.com/opencitydata/cultura-ocio-bibliotecas)*  |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-bibliotecas/issues)*   | Listado de las bibliotecas públicas de la ciudad, incluyendo bibliotecas fijas y móviles (bibliobuses). | 
@@ -1419,6 +1437,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/comercio-mercadillos-puestos-municipales"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Comercio | Inexistente | *[Repositorio](https://github.com/opencitydata/comercio-mercadillos-puestos-municipales)*  |  *[Generar issue](https://github.com/opencitydata/comercio-mercadillos-puestos-municipales/issues)*   | Mercadillos en via pública, listado y ubicación de los mismos. Mercados Municipales, listado, ubicación y puestos en los mismsos. | 
@@ -1438,6 +1457,7 @@ HAY DIFERENCIA CON TRAFICO?
 
  <a href="https://github.com/opencitydata/comercio-catalogo-empresas"> README </a>
    &nbsp;
+   
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Comercio | Inexistente | *[Repositorio](https://github.com/opencitydata/comercio-catalogo-empresas)*  |  *[Generar issue](https://github.com/opencitydata/comercio-catalogo-empresas/issues)*   | Listado de empresas radicadas en la ciudad, con datos relatvios a la gestión empresarial y de centro de trabajo (numero de trabajadores, directivos, información contable). Se distingue de comercios o locales de actividad. | 
