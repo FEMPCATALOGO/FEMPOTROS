@@ -148,26 +148,7 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 &nbsp;
 
 
-<h1> VOCABULARIO PARTICIPACIÓN CIUDADANA</h1><a name="id10"></a>
-   &nbsp;
-   <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
-<p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
-</p>
-&nbsp;   
-
- <a href="https://github.com/opencitydata/sector-publico-participacion-ciudadana/blob/master/README.md"> README </a> 
-   &nbsp;
-   
-   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sector público  | En proceso |  *[Repositorio](https://github.com/opencitydata/sector-publico-participacion-ciudadana)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-participacion-ciudadana/issues)*   | Vocabulario para la representación de datos relacionados con participación ciudadana.  | 26/03/2019 |  |   | CC-BY  |  |
- 
-&nbsp;
-
-
- 
 <h1> VOCABULARIO ACCESIBILIDAD</h1><a name="id11"></a>
   &nbsp;   
  <a href="https://github.com/opencitydata/transporte-accesibilidad/blob/master/README.md"> README </a>
@@ -203,6 +184,26 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 | Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/trafico-content/index.html)* *[Repositorio](https://github.com/opencitydata/transporte-trafico-tiempo-real)*  |  *[Generar issue](https://github.com/opencitydata/transporte-trafico-tiempo-real/issues)*   | Este repositorio contiene el material relacionado con el vocabulario que permite representar datos sobre la situación del tráfico en una ciudad.  | 18/05/2018  |  owl  json | CC-BY  | es  |
 
 HAY DIFERENCIA CON TRAFICO?
+&nbsp;
+
+
+
+<h1> VOCABULARIO PARTICIPACIÓN CIUDADANA</h1><a name="id10"></a>
+   &nbsp;
+   <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
+</p>
+&nbsp;   
+
+ <a href="https://github.com/opencitydata/sector-publico-participacion-ciudadana/blob/master/README.md"> README </a> 
+   &nbsp;
+   
+   | Dominio |  Estado  |   Links   |   Issues   |   Descripción   | Fecha Publicación |  Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
+| Sector público  | En proceso |  *[Repositorio](https://github.com/opencitydata/sector-publico-participacion-ciudadana)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-participacion-ciudadana/issues)*   | Vocabulario para la representación de datos relacionados con participación ciudadana.  | 26/03/2019 |  |   | CC-BY  |  |
+ 
 &nbsp;
 
 
