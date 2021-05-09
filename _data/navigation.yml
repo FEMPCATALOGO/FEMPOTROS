@@ -5,7 +5,7 @@ main:
     url: "https://github.com/opencitydata/"
 
 docs:
- - title: Getting Started
+  - title: Getting Started
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
