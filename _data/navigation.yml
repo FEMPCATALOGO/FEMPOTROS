@@ -8,7 +8,7 @@ docs:
   - title: Terminados
     children:
       - title: "CONTRATACIÓN PÚBLICA"
-        url: /#id
+        url: /#id1
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
