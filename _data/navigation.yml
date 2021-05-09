@@ -54,12 +54,12 @@ docs:
       - title: "TRANSPORTE PÚBLICO TARJETA"
         url: /#id12
       - title: "TRÁFICO TIEMPO REAL"
-        url: /#id13  
+        url: /docs/upgrading/
 
   - title: Customization
     children:
-      - title: "PARTICIPACIÓN CIUDADANA"
-        url: /#id10
+      - title: "Configuration"
+        url: /docs/configuration/
       - title: "PROTECCIÓN CIVIL"
         url: /#id14
        - title: "SEMÁFOROS"
