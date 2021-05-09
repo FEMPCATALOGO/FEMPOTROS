@@ -30,8 +30,7 @@ docs:
       - title: "TRANSPORTE PÚBLICO TARJETA"
         url: /#id12
       - title: "TRÁFICO TIEMPO REAL"
-        url: /#id13       
-
+        url: /#id13  
   - title: Vocabularios sin crear
     children:
       - title: "PARTICIPACIÓN CIUDADANA"
