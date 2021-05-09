@@ -87,8 +87,7 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sector público   Economía    Hacienda | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-subvenciones-ayudas)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-subvenciones-ayudas/issues)*   | 	
-Este vocabulario se utiliza para la descripción de datos relacionados con subvenciones concedidas por un municipio.   | 30/11/20 | essubv | rdf+xml   html   turtle | CC-BY  | es  |
+| Sector público   Economía    Hacienda | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-subvenciones-ayudas)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-subvenciones-ayudas/issues)*   | Este vocabulario se utiliza para la descripción de datos relacionados con subvenciones concedidas por un municipio.   | 30/11/20 | essubv | rdf+xml   html   turtle | CC-BY  | es  |
  
  
  MIRAR DIFERENCIA CON SUBVENCIONES NORMAL
@@ -104,8 +103,7 @@ Este vocabulario se utiliza para la descripción de datos relacionados con subve
    
    | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
-| Urbanismo e infraestructuras   Direcciones postales | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal/index-en.html)* *[Repositorio](https://github.com/opencitydata/commons-direccion-postal)*  |  *[Generar issue](https://github.com/opencitydata/commons-direccion-postal/issues)*   | 	
-Vocabulario para la representación de direcciones postales en España.  | esdir |  rdf+xml   html   turtle | CC-BY  | es en |
+| Urbanismo e infraestructuras   Direcciones postales | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal/index-en.html)* *[Repositorio](https://github.com/opencitydata/commons-direccion-postal)*  |  *[Generar issue](https://github.com/opencitydata/commons-direccion-postal/issues)*   | Vocabulario para la representación de direcciones postales en España.  | esdir |  rdf+xml   html   turtle | CC-BY  | es en |
  
 
 &nbsp;
