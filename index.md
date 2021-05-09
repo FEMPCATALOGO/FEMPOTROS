@@ -17,9 +17,6 @@ classes: wide
 &nbsp;
  
 <div id="todo">
-  https://github.com/opencitydata?page=1
-  http://vocab.linkeddata.es/datosabiertos/
-  https://ciudadesabiertas.es/vocabularios/#Cat%C3%A1logoVocabularios
   
 <h2>  ÍNDICE </h2>
   
