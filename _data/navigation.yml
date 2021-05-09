@@ -5,10 +5,10 @@ main:
     url: "https://github.com/opencitydata/"
 
 docs:
-  - title: Getting Started
+  - title: Terminados
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "CONTRATACIÓN PÚBLICA"
+        url: /#id
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
@@ -16,7 +16,7 @@ docs:
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Inexistentes
     children:
       - title: "Configuration"
         url: /docs/configuration/
