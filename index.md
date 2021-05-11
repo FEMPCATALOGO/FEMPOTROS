@@ -20,6 +20,13 @@ sidebar:
 </ul>
 	</nav>
 	<br><br>
+	<header>
+	<div class="headerC">
+		<h1>Vocabularios OpenCityData </h1>
+		<h2>Cuenta creada originalmente en el contexto de la red temática española sobre Datos Abiertos, repositorios de vocabularios para datos abiertos</h2>
+	</div>
+	</header>
+	
   
 </head>
   
