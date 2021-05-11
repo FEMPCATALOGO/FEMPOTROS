@@ -10,8 +10,7 @@ h2{
 header{
    width:100%;
    height:auto;  
-  background-image: url("img/OpenCityData.png");
-     background-color: rgba(0,0,0,0.2);
+     background-color:  #ececec
   z-index: 2;
 }
 
