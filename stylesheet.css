@@ -1,7 +1,25 @@
 
 h1{
- color: #ff7f50;    
+  color: #ff7f50;    
+   font-size: 25px;
 }
+
+h2{
+   font-size: 20px; 
+}
+header{
+   width:100%;
+   height:auto;  
+     background-color: rgba(0,0,0,0.2);
+  z-index: 2;
+}
+
+
+.headerC{
+    padding: 2.5em;     
+    margin: 2.5em;   
+}
+
 
 
 /** navigation bar */
