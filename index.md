@@ -19,8 +19,7 @@ sidebar:
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
 </ul>
 	</nav>
-	<br><br>
-	
+	<br><br>	
 	<header>
 	<div class="headerC">
 		<h1>Vocabularios OpenCityData </h1>
@@ -60,11 +59,7 @@ sidebar:
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |   Fecha Publicación |  Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | -------- |
 | Medio Ambiente | Terminado |  *[Repositorio](https://github.com/opencitydata/vocab-medio-ambiente-emisiones)*   |  *[Generar issue](https://github.com/opencitydata/vocab-medio-ambiente-emisiones/issues)*   | Vocabulario para la representación de los cubos de datos de emisiones de gases de efecto invernadero. | 09/12/20 |  xml  turtle | CC-BY  | es |
-      
-      
-   
-NO APARECE EN ESTA PAGINA:
-http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
+    
 
 &nbsp; 
  
@@ -107,7 +102,6 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 | Sector público   Economía    Hacienda | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion/index-en.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-subvenciones-ayudas)*  |  *[Generar issue](https://github.com/opencitydata/sector-publico-subvenciones-ayudas/issues)*   | Este vocabulario se utiliza para la descripción de datos relacionados con subvenciones concedidas por un municipio.   | 30/11/20 | essubv | rdf+xml   html   turtle | CC-BY  | es  |
  
  
- MIRAR DIFERENCIA CON SUBVENCIONES NORMAL
 
 &nbsp;
    
@@ -175,7 +169,6 @@ http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/cubo-emisiones
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Transporte | En proceso |  *[Repositorio](https://github.com/opencitydata/transporte-accesibilidad)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accesibilidad/issues)*   | El caso de estudio actual está relacionado con el transporte público en Madrid, específicamente con los autobuses y los sistemas de metro.  |  |  |   | CC-BY  |  |
 
- PAGINA WEB NO TIENE?
 &nbsp;
 
 
