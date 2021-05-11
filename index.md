@@ -20,6 +20,7 @@ sidebar:
 </ul>
 	</nav>
 	<br><br>
+	
 	<header>
 	<div class="headerC">
 		<h1>Vocabularios OpenCityData </h1>
